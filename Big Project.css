@@ -1,0 +1,176 @@
+*{ 
+    margin: 0; 
+    font-family: 'Merriweather', serif; 
+ } 
+ header{ 
+     height: 100vh; 
+     background-size: cover; 
+     display: flex; 
+     justify-content: center; 
+     color: white; 
+     align-items: center; 
+     background-image: url(https://images01.nicepage.com/a1389d7bc73adea1e1c1fb7e/a51310af9ef55a33b730f558/pexelsphoto213621.png); 
+ } 
+ .inner-header{ 
+     text-align: center; 
+     font-size: 96px; 
+      
+ } 
+ .subtitle{ 
+     font-size: 24px; 
+ } 
+  
+ .second{ 
+     height: 110vh; 
+     background: #dfcbab; 
+     color: black; 
+     font-size: 16px; 
+     padding-top: 100px; 
+ } 
+ .inner-second_1{ 
+     text-align: center; 
+     width: 825px; 
+     margin: auto; 
+     color: black; 
+  
+ } 
+ .second-title{ 
+     font-size:36px ; 
+     margin-bottom: 35px; 
+ } 
+ .inner-second_2{ 
+     display: flex; 
+     width: 1140px; 
+     margin: 0 auto; 
+     gap: 100px; 
+     margin-top: 100px; 
+ } 
+ .left-tort-img{ 
+     width: 380px; 
+     height: 600px; 
+     background-size: cover; 
+     background-image: url(https://images01.nicepage.com/a1389d7bc73adea1e1c1fb7e/fa3fa2b7085552afb8aa51f3/pexelsphoto291528.jpg);  
+ } 
+ .second-text{ 
+     width: 600px; 
+     margin-top: 50px; 
+ } 
+ .right-tort-img{ 
+     width: 600px; 
+     height: 350px; 
+     margin-top: 50px; 
+     background-size: cover; 
+     background-image: url(https://images01.nicepage.com/a1389d7bc73adea1e1c1fb7e/975df626266855078c4e6e5c/pexelsphoto839220.jpg) ; 
+ } 
+ .third{  
+     height: 75vh;  
+     background-size: cover;  
+     background-color: white;  
+     display: flex ;  
+   }  
+   .third-left-image{  
+    background-color: black;  
+    background-image: url(https://img3.akspic.ru/previews/5/9/1/4/6/164195/164195-kofejnaya_chashka-tureckij_kofe-kofe_espresso-chaj-kofe-x750.jpg);  
+    background-size:  100% ;  
+    background-repeat: no-repeat; 
+    height: 95%; 
+     flex: 1;  
+   }  
+   .third-central-text{  
+     background-color: white;  
+     text-align: center; 
+     padding-top: 12rem; 
+     flex: 1;  
+   }  
+   .third-right-image{  
+     background-color: black;  
+     background-image: url(https://img3.akspic.ru/previews/7/8/8/8/2/128887/128887-pishha-maslyanyj_krem-tort-kuhnya-shokolad-500x.jpg); 
+     background-repeat: no-repeat; 
+     height: 95%; 
+     flex: 1;  
+   }  
+   .third-height-central-text{  
+     font-size: 24px;  
+     color: black;  
+   } 
+ .third-gray{ 
+     color: gray; 
+     padding-top: 1rem; 
+     font-size: 14px; 
+ } 
+ .third-text-indent{ 
+     padding : 10px; 
+ } 
+ .third-dote-gray{ 
+  color: gray; 
+ } 
+ .third-main-link{ 
+     padding-top: 1rem; 
+ } 
+ .third-link{ 
+     text-decoration: none; 
+     background-color: #dfcbab; 
+ } 
+ a { 
+     padding: 10px 100px 10px  ; /* Поля вокруг текста ссылки */ 
+     text-decoration: none; /* Убираем подчёркивание */ 
+      
+    } 
+    a:hover { 
+     background: #e1e0dd; /* Цвет фона при наведении на ссылку курсора */ 
+     color: white; /* Новый цвет текста */ 
+    } 
+ .www{ 
+     width: 100%; 
+     height: 85vh; 
+ } 
+  
+    .fourth{ 
+     height: 80vh; 
+     background-color: black;  
+     background-image: url(https://img3.akspic.ru/previews/1/4/0/8/2/128041/128041-barista-kofe-napitok-kofevarka-kofe_espresso-x750.jpg); 
+     background-size: 100%; 
+     background-position: center; 
+     background-repeat: no-repeat; 
+    } 
+    .fourth-all-text{ 
+     margin: 50px; 
+    } 
+  
+     .fourth-head-text{ 
+         color: white; 
+         font-size: 22px; 
+         padding-top: 18rem; 
+         padding-left: 10rem; 
+  
+     } 
+     .fourth-indent{ 
+         padding-top: 32px; 
+         width: 41%; 
+         text-align: left; 
+         font-size: 1rem; 
+         line-height: 1.6; 
+     } 
+     .fourth-link{ 
+         background-color: #dfcbab ; 
+         color: black; 
+     } 
+     .fourth-link-indent{ 
+         padding-top: 50px; 
+  
+     } 
+     .Fiveth{ 
+         height: 90vh; 
+         background-color: #dfcbab ; 
+         display: flex; 
+     } 
+     .five-flex-left{ 
+         flex: 1; 
+     } 
+     .five-flex-right{ 
+         flex: 1; 
+     } 
+  
+  
+     .fiveth-left-image{ 
+         background-image: url(https://images01.nicepage.com/a1389d7bc73adea1e1c1fb7e/59f9f99513af5894a5a8f11b/pexelsphoto907142.jpeg);}
